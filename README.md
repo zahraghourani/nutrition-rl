@@ -8,7 +8,7 @@
 > A Reinforcement Learning agent that acts as a personalized daily nutrition coach, recommending culturally-appropriate meals across breakfast, lunch, dinner, and snack to help users meet their nutritional goals by end of day.
 
 **Author:** Zahra El Ghourani | **Supervisor:** Dr. Abbas Rammal  
-**Course:** Reinforcement Learning — Master 2 Data Science, Lebanese American University
+**Course:** Reinforcement Learning — Master of Science in Data Science, Lebanese American University
 
 ---
 
